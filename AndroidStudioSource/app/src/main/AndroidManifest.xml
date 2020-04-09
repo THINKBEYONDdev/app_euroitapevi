@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="webviewgold.myappname">
+    package="mdsafety.euroitapevi">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -16,7 +16,8 @@
     <uses-feature android:name="android.hardware.camera" />
 
     <application
-        android:name=".WebViewApp"
+        android:windowSoftInputMode="adjustResize"
+        android:name="mdsafety.euroitapevi.WebViewApp"
         android:allowBackup="false"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
@@ -26,7 +27,7 @@
         android:usesCleartextTraffic="true">
 
         <provider
-            android:name=".GenericFileProvider"
+            android:name="mdsafety.euroitapevi.GenericFileProvider"
             android:authorities="${applicationId}.provider"
             android:exported="false"
             android:grantUriPermissions="true">
@@ -42,12 +43,12 @@
             android:name="com.onesignal.NotificationOpened.DEFAULT"
             android:value="DISABLE" />
 
-        <activity android:name="webviewgold.myappname.SplashScreen">
+        <activity android:name="mdsafety.euroitapevi.SplashScreen">
 
         </activity>
 
         <activity
-            android:name="webviewgold.myappname.MainActivity"
+            android:name="mdsafety.euroitapevi.MainActivity"
             android:configChanges="orientation|screenSize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -81,7 +82,7 @@
             android:value="@string/default_notification_channel_id" />
 
         <service
-            android:name=".MyFirebaseMessagingService"
+            android:name="mdsafety.euroitapevi.MyFirebaseMessagingService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />

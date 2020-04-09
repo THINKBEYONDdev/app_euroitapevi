@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b101d6c6-abc7-4a3f-87b5-c737cf80f50f" name="Default Changelist" comment="" />
+    <list default="true" id="b101d6c6-abc7-4a3f-87b5-c737cf80f50f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/myappname/AlertManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/euroitapevi/AlertManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/myappname/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/euroitapevi/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/myappname/GenericFileProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/euroitapevi/GenericFileProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/myappname/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/euroitapevi/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/myappname/MyFirebaseMessagingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/euroitapevi/MyFirebaseMessagingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/myappname/MyNotificationOpenedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/euroitapevi/MyNotificationOpenedHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/myappname/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/euroitapevi/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/myappname/WebViewApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/java/webviewgold/euroitapevi/WebViewApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-hdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-hdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-mdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-mdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xhdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xhdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xxhdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xxhdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xxxhdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidStudioSource/app/src/main/res/mipmap-xxxhdpi/splash.png" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZwWMVtlceKtLjMD0eN5s7YSA17" />
   <component name="PropertiesComponent">
@@ -39,5 +64,16 @@
       <updated>1585743715311</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
